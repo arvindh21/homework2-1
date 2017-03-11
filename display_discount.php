@@ -1,3 +1,8 @@
+<?php
+	$product_description;
+	$list_price;
+	$discount_percent;
+?>
 <!DOCTYPE html>
 <html>
 <head>
